@@ -16,10 +16,10 @@ void PrintArray(int[] myArray)
 }
 int GetPositiveElem(int[] myArray)
 {
-    int sum = 0;
+    int count = 0;
     for (int i = 0; i < myArray.Length; i++)
-        if (myArray[i] > 0) sum += 1;
-    return sum;
+        if (myArray[i] > 0) count += 1;
+    return count;
 }
 PrintArray(myArray);
 int PositiveElem = GetPositiveElem(myArray);

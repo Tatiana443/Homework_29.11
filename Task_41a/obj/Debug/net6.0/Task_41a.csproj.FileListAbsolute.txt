@@ -1,0 +1,15 @@
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.csproj.AssemblyReference.cache
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.AssemblyInfoInputs.cache
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.AssemblyInfo.cs
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.csproj.CoreCompileInputs.cache
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\bin\Debug\net6.0\Task_41a.exe
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\bin\Debug\net6.0\Task_41a.deps.json
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\bin\Debug\net6.0\Task_41a.runtimeconfig.json
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\bin\Debug\net6.0\Task_41a.dll
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\bin\Debug\net6.0\Task_41a.pdb
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.dll
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\refint\Task_41a.dll
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.pdb
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\Task_41a.genruntimeconfig.cache
+C:\Users\berezhnaya\Desktop\Study\Homework_29.11\Task_41a\obj\Debug\net6.0\ref\Task_41a.dll
